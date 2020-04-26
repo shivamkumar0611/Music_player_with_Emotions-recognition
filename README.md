@@ -24,12 +24,6 @@
   and replace your server URL with my URL
 - That's all 
 
-### How it works? See:) FREE VERSION WITHOUT GUI
-
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Emotion_recognition_Music_player.gif">
-
-### Video demo :- FREE VERSION
-
 [Youtube](https://youtu.be/2xW6TP4Yojg)
 
 
