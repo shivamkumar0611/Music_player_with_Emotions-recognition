@@ -16,3 +16,11 @@ After training it will create two files retrained_graph.pb & retrained_labels.tx
 Now run music_player_webcam.py (give proper path of songs and Mediaplayer according to your location in code)
 If you want to fetch video from your mobile cam than use music_player_android.py,but you have to install IPWebcam app in your system and replace your server URL with my URL
 That's all
+
+
+
+Notes
+It will require high processing power(I have 8 GB RAM & 2 GB GC)
+If you think it will recognise expression just like humans,than leave it ,its not possible.
+Download 300 Images for every expression(you can use batch downloader)
+Noisy image can reduce your accuracy so quality of images matter.
