@@ -41,24 +41,8 @@
 -  Own developed Music player with all basic functionalities 
 -  See here are some screenshots of full GUI version.
 
-###  Screenshots
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (34).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (35).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (36).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (37).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (38).png">
-
-###  This guy purchased this project from me and won prize in Zhejiang university of technology China
-###  Poster Presentation 
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china2.jpeg">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china1.jpeg">
-
 ### Notes
 - It will require high processing power(I have 8 GB RAM & 2 GB GC)
 - If you think it will recognise expression just like humans,than leave it ,its not possible.
 - Download 300 Images for every expression(you can use batch downloader)
 - Noisy image can reduce your accuracy so quality of images matter.
-
-## Just follow☝️ me and Star⭐ my repository 
-## [Demo video](https://youtu.be/YTIrGBOKRHY)
-## Buy this projects from here at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820/e-musicplay-music-according-to-your-face-moo/)
